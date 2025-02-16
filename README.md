@@ -25,14 +25,6 @@ This is an innovative console-based Tic-Tac-Toe game written in C. The AI oppone
    git clone https://github.com/yourusername/ai-tic-tac-toe.git
    cd ai-tic-tac-toe
    ```
-2. Compile the program using GCC:
-   ```bash
-   gcc tic_tac_toe.c -o tic_tac_toe
-   ```
-3. Run the executable:
-   ```bash
-   ./tic_tac_toe
-   ```
 
 ## Future Enhancements
 - Improve AI using the Minimax algorithm.
@@ -40,8 +32,7 @@ This is an innovative console-based Tic-Tac-Toe game written in C. The AI oppone
 - Implement multiplayer mode.
 
 ## Author
-Developed by [Your Name]. Feel free to contribute and improve this project!
+Developed by PRADAP. Feel free to contribute and improve this project!
 
-## License
-This project is open-source and available under the MIT License.
+
 
